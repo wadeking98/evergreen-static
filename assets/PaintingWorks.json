@@ -1,0 +1,13 @@
+[
+    {"description":"All Unsold paintings avalable for order. Please email for more details about shipping. Please contact for original custom pieces. \n"},
+    {"title":"Sandy Feet ", "image":["SandyFeetPainting.jpg"], "description":"Acrylic on Canvas. 30\" by 40\". Comes with gold patterned frame. Ready to Hang. ", "cost":"$100, not including shipping."},
+    {"title":"Orchid Awe", "image":["OrchidBliss.jpg"], "description":"Arylic on Canvas. 12\" by 36\"", "cost":"$60, not including shipping."},
+    {"title":"Indian Painbrush", "image":["IndianpaintbrushDigitalArt.jpg"], "description":"Acrylic on Canvas. 15\" by 20\"", "cost":"$30, not including shipping."},
+    {"title":"Chickadee in Cherry", "image":["ChickadeeInPrunusDigitalArt.jpg"], "description":"Arylic on board. 31\" by 90\". Comes with glass and frame. Ready to hang.", "cost":"$100, not including shipping."},
+        {"description":"All paintings below are SOLD \n"},
+        {"title":"Naked Rain", "image":["NakedRainPaintingSOLD.jpg"], "description":"Arylic on Canvas. SOLD "},
+        {"title":"Clouded Thoughts", "image":["CloudedThoughtsPaintingSOLD.jpg"], "description":"Arylic on Canvas. SOLD "},
+        {"title":"Poppy ", "image":["PoppyPaintingSOLD.jpg"], "description":"Arylic on Canvas. SOLD "},
+        {"title":"Blackbird in Dogwood ", "image":["ArtBattleSienaBlackbirdinDogwood.jpg"], "description":"Arylic on Canvas. SOLD "},
+        {"title":"Rosey Cheeks ", "image":["ArtBattleRoseyPortraitSOLD.jpg"], "description":"Arylic on Canvas. SOLD "}
+]
